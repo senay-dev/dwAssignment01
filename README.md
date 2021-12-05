@@ -1,7 +1,1 @@
-My OS: Windows 
-
-Github Experience: familiar, did one project on it\n
-
-Github Tool: CLI \n
-
-Github Tutorial: https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673/ref=sr_1_3?crid=243YCXE5NBZFW&dchild=1&keywords=github+for+dummies&qid=1632000429&sprefix=github+for+dummie%2Caps%2C-1&sr=8-3
+<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1280px; height: 534px;'><object class='tableauViz' width='1280' height='534' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;rowanuniversity' /><param name='name' value='SenayTesfamichael-FootballAnalysis&#47;Story' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
